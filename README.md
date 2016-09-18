@@ -12,7 +12,7 @@ I believe this course is helpful for any work about DIP. Moreover, I hope someth
 
 ## What do you want to achieve in the course? [ max 500 words]
 I would get some experiences and base concepts about CV.
-
+ 
 PS. 中文 or English are both fine.
 
 ## Due Date: Sept. 23, 2015
